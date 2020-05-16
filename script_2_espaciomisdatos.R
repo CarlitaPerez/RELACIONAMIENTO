@@ -4,6 +4,7 @@
 #                  #
 ####################
 # Hecho con gusto por Carla Carolina Pérez Hernández (UAEH)
+# CODIGO MODIFICADO EN DIA VIERNES
 
 # video 02 - RELACIONAMIENTO "CASO REAL": EXPORTACIONES HIDALGUENSES
 
